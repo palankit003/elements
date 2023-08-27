@@ -1,0 +1,48 @@
+:root {
+  --top-row-color: #232730;
+}
+.wrapper {
+  width: 100%;
+  overflow-x: auto;
+  overflow-y: visible;
+  white-space: nowrap;
+  background-color: #292b3a;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+}
+.parent {
+  display: grid;
+  height: 100%;
+  grid-template-columns: 1rem repeat(18, 5rem);
+  grid-template-rows: 2rem repeat(7, minmax(1fr, calc(calc(100vh - 2rem) / 7)));
+}
+.secondParent {
+  display: grid;
+  margin-top: 1rem;
+  grid-template-columns: 1rem repeat(18, 5rem);
+  grid-template-rows: repeat(2, minmax(1fr, calc(calc(100vh - 2rem) / 7)));
+}
+@media screen and (min-width: 1024px) {
+  .parent,
+  .secondParent {
+    grid-template-columns: 1rem repeat(18, 1fr);
+  }
+}
+.itemContent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* top-row */
+.parent > .itemContent:nth-child(n + 1):nth-child(-n + 19) {
+  padding: 0.5rem 0;
+  background-color: var(--top-row-color);
+  color: hsl(215, 14%, 60%);
+}
+/* left-column */
+.itemContent:nth-child(19n + 1) {
+  background-color: hsl(180, 40%, 20%);
+}

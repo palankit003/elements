@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #292b3a;
+  padding: 1rem;
+  font-size: 1.5rem;
+  color: white;
+}
+.mobileMenu,
+.searchIcon {
+  font-size: 1.5rem;
+}

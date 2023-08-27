@@ -1,0 +1,1066 @@
+{
+  "elements": [
+    {
+      "name": "Hydrogen",
+      "symbol": "H",
+      "atomic_number": 1,
+      "category": "Non-metal",
+      "discovered_by": "Henry Cavendish",
+      "discovery_date": "1766",
+      "properties": "Colorless, odorless gas. Lightest element, highly flammable."
+    },
+    {
+      "name": "Helium",
+      "symbol": "He",
+      "atomic_number": 2,
+      "category": "Noble gas",
+      "discovered_by": "Pierre Janssen, Norman Lockyer",
+      "discovery_date": "1868",
+      "properties": "Colorless, odorless gas. Lowest boiling point, used in balloons."
+    },
+    {
+      "name": "Lithium",
+      "symbol": "Li",
+      "atomic_number": 3,
+      "category": "Alkali metal",
+      "discovered_by": "Johan August Arfwedson",
+      "discovery_date": "1817",
+      "properties": "Soft, silvery metal. Highly reactive, used in batteries."
+    },
+    {
+      "name": "Beryllium",
+      "symbol": "Be",
+      "atomic_number": 4,
+      "category": "Alkaline earth metal",
+      "discovered_by": "Louis Nicolas Vauquelin",
+      "discovery_date": "1798",
+      "properties": "Hard, brittle metal. Low density, used in alloys."
+    },
+    {
+      "name": "Boron",
+      "symbol": "B",
+      "atomic_number": 5,
+      "category": "Metalloid",
+      "discovered_by": "Joseph Louis Gay-Lussac, Louis Jacques Thénard",
+      "discovery_date": "1808",
+      "properties": "Metalloid. Important for plants, used in semiconductors."
+    },
+    {
+      "name": "Carbon",
+      "symbol": "C",
+      "atomic_number": 6,
+      "category": "Non-metal",
+      "discovered_by": "Ancient civilizations",
+      "discovery_date": "Prehistoric",
+      "properties": "Basis of organic chemistry, found in all living organisms."
+    },
+    {
+      "name": "Nitrogen",
+      "symbol": "N",
+      "atomic_number": 7,
+      "category": "Non-metal",
+      "discovered_by": "Daniel Rutherford",
+      "discovery_date": "1772",
+      "properties": "Colorless, odorless gas. Most abundant in Earth's atmosphere."
+    },
+    {
+      "name": "Oxygen",
+      "symbol": "O",
+      "atomic_number": 8,
+      "category": "Non-metal",
+      "discovered_by": "Carl Wilhelm Scheele",
+      "discovery_date": "1772",
+      "properties": "Colorless, odorless gas. Supports combustion and life."
+    },
+    {
+      "name": "Fluorine",
+      "symbol": "F",
+      "atomic_number": 9,
+      "category": "Halogen",
+      "discovered_by": "Henri Moissan",
+      "discovery_date": "1886",
+      "properties": "Highly reactive gas. Used in toothpaste and water fluoridation."
+    },
+    {
+      "name": "Neon",
+      "symbol": "Ne",
+      "atomic_number": 10,
+      "category": "Noble gas",
+      "discovered_by": "Morris Travers, William Ramsay",
+      "discovery_date": "1898",
+      "properties": "Colorless, inert gas. Used in neon signs."
+    },
+    {
+      "name": "Sodium",
+      "symbol": "Na",
+      "atomic_number": 11,
+      "category": "Alkali metal",
+      "discovered_by": "Humphry Davy",
+      "discovery_date": "1807",
+      "properties": "Highly reactive metal. Used in salts and as a reagent."
+    },
+    {
+      "name": "Magnesium",
+      "symbol": "Mg",
+      "atomic_number": 12,
+      "category": "Alkaline earth metal",
+      "discovered_by": "Joseph Black",
+      "discovery_date": "1755",
+      "properties": "Lightweight, silvery metal. Used in alloys and as a supplement."
+    },
+    {
+      "name": "Aluminum",
+      "symbol": "Al",
+      "atomic_number": 13,
+      "category": "Post-transition metal",
+      "discovered_by": "Hans Christian Oersted, Friedrich Wöhler",
+      "discovery_date": "1825",
+      "properties": "Lightweight, corrosion-resistant metal. Used in various applications."
+    },
+    {
+      "name": "Silicon",
+      "symbol": "Si",
+      "atomic_number": 14,
+      "category": "Metalloid",
+      "discovered_by": "Jöns Jacob Berzelius",
+      "discovery_date": "1823",
+      "properties": "Metalloid. Key component of most minerals and rocks."
+    },
+    {
+      "name": "Phosphorus",
+      "symbol": "P",
+      "atomic_number": 15,
+      "category": "Non-metal",
+      "discovered_by": "Hennig Brand",
+      "discovery_date": "1669",
+      "properties": "Non-metal. Essential for life, used in fertilizers and matches."
+    },
+    {
+      "name": "Sulfur",
+      "symbol": "S",
+      "atomic_number": 16,
+      "category": "Non-metal",
+      "discovered_by": "Ancient civilizations",
+      "discovery_date": "Prehistoric",
+      "properties": "Non-metal. Forms various compounds, distinctive smell."
+    },
+    {
+      "name": "Chlorine",
+      "symbol": "Cl",
+      "atomic_number": 17,
+      "category": "Halogen",
+      "discovered_by": "Carl Wilhelm Scheele",
+      "discovery_date": "1774",
+      "properties": "Halogen gas. Strong disinfectant, used in water treatment."
+    },
+    {
+      "name": "Argon",
+      "symbol": "Ar",
+      "atomic_number": 18,
+      "category": "Noble gas",
+      "discovered_by": "Lord Rayleigh, Sir William Ramsay",
+      "discovery_date": "1894",
+      "properties": "Colorless, inert gas. Used in various applications."
+    },
+    {
+      "name": "Potassium",
+      "symbol": "K",
+      "atomic_number": 19,
+      "category": "Alkali metal",
+      "discovered_by": "Humphry Davy",
+      "discovery_date": "1807",
+      "properties": "Highly reactive metal. Used in salts and as a reagent."
+    },
+    {
+      "name": "Calcium",
+      "symbol": "Ca",
+      "atomic_number": 20,
+      "category": "Alkaline earth metal",
+      "discovered_by": "Humphry Davy",
+      "discovery_date": "1808",
+      "properties": "Essential for life, forms bones and teeth. Used in various applications."
+    },
+    {
+      "name": "Scandium",
+      "symbol": "Sc",
+      "atomic_number": 21,
+      "category": "Transition metal",
+      "discovered_by": "Lars Fredrik Nilson",
+      "discovery_date": "1879",
+      "properties": "Transition metal. Used in alloys and electronic devices."
+    },
+    {
+      "name": "Titanium",
+      "symbol": "Ti",
+      "atomic_number": 22,
+      "category": "Transition metal",
+      "discovered_by": "William Gregor",
+      "discovery_date": "1791",
+      "properties": "Transition metal. Strong, lightweight metal. Used in aerospace and medical implants."
+    },
+    {
+      "name": "Vanadium",
+      "symbol": "V",
+      "atomic_number": 23,
+      "category": "Transition metal",
+      "discovered_by": "Andrés Manuel del Río",
+      "discovery_date": "1801",
+      "properties": "Transition metal. Used in steel alloys and as a catalyst."
+    },
+    {
+      "name": "Chromium",
+      "symbol": "Cr",
+      "atomic_number": 24,
+      "category": "Transition metal",
+      "discovered_by": "Louis Nicolas Vauquelin",
+      "discovery_date": "1797",
+      "properties": "Transition metal. Hard, corrosion-resistant. Used in alloys."
+    },
+    {
+      "name": "Manganese",
+      "symbol": "Mn",
+      "atomic_number": 25,
+      "category": "Transition metal",
+      "discovered_by": "Johan Gottlieb Gahn",
+      "discovery_date": "1774",
+      "properties": "Transition metal. Used in steel production and batteries."
+    },
+    {
+      "name": "Iron",
+      "symbol": "Fe",
+      "atomic_number": 26,
+      "category": "Transition metal",
+      "discovered_by": "Ancient civilizations",
+      "discovery_date": "Prehistoric",
+      "properties": "Transition metal. Essential for making steel, found in hemoglobin."
+    },
+    {
+      "name": "Cobalt",
+      "symbol": "Co",
+      "atomic_number": 27,
+      "category": "Transition metal",
+      "discovered_by": "Georg Brandt",
+      "discovery_date": "1735",
+      "properties": "Transition metal. Used in batteries, alloys, and medical applications."
+    },
+    {
+      "name": "Nickel",
+      "symbol": "Ni",
+      "atomic_number": 28,
+      "category": "Transition metal",
+      "discovered_by": "Axel Fredrik Cronstedt",
+      "discovery_date": "1751",
+      "properties": "Transition metal. Used in alloys, coins, and plating."
+    },
+    {
+      "name": "Copper",
+      "symbol": "Cu",
+      "atomic_number": 29,
+      "category": "Transition metal",
+      "discovered_by": "Ancient civilizations",
+      "discovery_date": "Prehistoric",
+      "properties": "Transition metal. Good conductor of electricity, used in wiring and coins."
+    },
+    {
+      "name": "Zinc",
+      "symbol": "Zn",
+      "atomic_number": 30,
+      "category": "Transition metal",
+      "discovered_by": "Andreas Sigismund Marggraf",
+      "discovery_date": "1746",
+      "properties": "Transition metal. Used in galvanizing and as an essential trace element."
+    },
+    {
+      "name": "Gallium",
+      "symbol": "Ga",
+      "atomic_number": 31,
+      "category": "Post-transition metal",
+      "discovered_by": "Lecoq de Boisbaudran",
+      "discovery_date": "1875",
+      "properties": "Metal. Low melting point, used in semiconductors."
+    },
+    {
+      "name": "Germanium",
+      "symbol": "Ge",
+      "atomic_number": 32,
+      "category": "Metalloid",
+      "discovered_by": "Clemens Winkler",
+      "discovery_date": "1886",
+      "properties": "Metalloid. Used in semiconductors and fiber optics."
+    },
+    {
+      "name": "Arsenic",
+      "symbol": "As",
+      "atomic_number": 33,
+      "category": "Metalloid",
+      "discovered_by": "Albertus Magnus",
+      "discovery_date": "Prehistoric",
+      "properties": "Metalloid. Poisonous, used in semiconductors and wood preservation."
+    },
+    {
+      "name": "Selenium",
+      "symbol": "Se",
+      "atomic_number": 34,
+      "category": "Non-metal",
+      "discovered_by": "Jöns Jacob Berzelius",
+      "discovery_date": "1817",
+      "properties": "Non-metal. Used in electronics and photovoltaic cells."
+    },
+    {
+      "name": "Bromine",
+      "symbol": "Br",
+      "atomic_number": 35,
+      "category": "Halogen",
+      "discovered_by": "Antoine Jérôme Balard",
+      "discovery_date": "1826",
+      "properties": "Halogen. Red-brown liquid, used in flame retardants."
+    },
+    {
+      "name": "Krypton",
+      "symbol": "Kr",
+      "atomic_number": 36,
+      "category": "Noble gas",
+      "discovered_by": "Sir William Ramsay, Morris Travers",
+      "discovery_date": "1898",
+      "properties": "Noble gas. Used in lighting and lasers."
+    },
+    {
+      "name": "Rubidium",
+      "symbol": "Rb",
+      "atomic_number": 37,
+      "category": "Alkali metal",
+      "discovered_by": "Robert Bunsen, Gustav Kirchhoff",
+      "discovery_date": "1861",
+      "properties": "Alkali metal. Reactive, used in research and some specialized batteries."
+    },
+    {
+      "name": "Strontium",
+      "symbol": "Sr",
+      "atomic_number": 38,
+      "category": "Alkaline earth metal",
+      "discovered_by": "Adair Crawford, William Cruickshank",
+      "discovery_date": "1790",
+      "properties": "Alkaline earth metal. Used in fireworks, pyrotechnics, and alloys."
+    },
+    {
+      "name": "Yttrium",
+      "symbol": "Y",
+      "atomic_number": 39,
+      "category": "Transition metal",
+      "discovered_by": "Johan Gadolin",
+      "discovery_date": "1794",
+      "properties": "Transition metal. Used in alloys and electronics."
+    },
+    {
+      "name": "Zirconium",
+      "symbol": "Zr",
+      "atomic_number": 40,
+      "category": "Transition metal",
+      "discovered_by": "Martin Heinrich Klaproth",
+      "discovery_date": "1789",
+      "properties": "Transition metal. Used in alloys, ceramics, and nuclear applications."
+    },
+    {
+      "name": "Niobium",
+      "symbol": "Nb",
+      "atomic_number": 41,
+      "category": "Transition metal",
+      "discovered_by": "Charles Hatchett",
+      "discovery_date": "1801",
+      "properties": "Transition metal. Used in alloys and superconductors."
+    },
+    {
+      "name": "Molybdenum",
+      "symbol": "Mo",
+      "atomic_number": 42,
+      "category": "Transition metal",
+      "discovered_by": "Carl Wilhelm Scheele",
+      "discovery_date": "1778",
+      "properties": "Transition metal. High melting point, used in steel alloys."
+    },
+    {
+      "name": "Technetium",
+      "symbol": "Tc",
+      "atomic_number": 43,
+      "category": "Transition metal",
+      "discovered_by": "Emilio Segrè, Carlo Perrier",
+      "discovery_date": "1937",
+      "properties": "Transition metal. Radioactive, used in medical imaging."
+    },
+    {
+      "name": "Ruthenium",
+      "symbol": "Ru",
+      "atomic_number": 44,
+      "category": "Transition metal",
+      "discovered_by": "Karl Ernst Claus",
+      "discovery_date": "1844",
+      "properties": "Transition metal. Used in electronics and catalysis."
+    },
+    {
+      "name": "Rhodium",
+      "symbol": "Rh",
+      "atomic_number": 45,
+      "category": "Transition metal",
+      "discovered_by": "William Hyde Wollaston",
+      "discovery_date": "1803",
+      "properties": "Transition metal. Reflective and corrosion-resistant. Used in jewelry and catalysis."
+    },
+    {
+      "name": "Palladium",
+      "symbol": "Pd",
+      "atomic_number": 46,
+      "category": "Transition metal",
+      "discovered_by": "William Hyde Wollaston",
+      "discovery_date": "1803",
+      "properties": "Transition metal. Used in catalysis, electronics, and jewelry."
+    },
+    {
+      "name": "Silver",
+      "symbol": "Ag",
+      "atomic_number": 47,
+      "category": "Transition metal",
+      "discovered_by": "Ancient civilizations",
+      "discovery_date": "Prehistoric",
+      "properties": "Transition metal. Valuable, excellent conductor of electricity."
+    },
+    {
+      "name": "Cadmium",
+      "symbol": "Cd",
+      "atomic_number": 48,
+      "category": "Transition metal",
+      "discovered_by": "Karl Samuel Leberecht Hermann, Friedrich Stromeyer",
+      "discovery_date": "1817",
+      "properties": "Transition metal. Used in batteries and coatings."
+    },
+    {
+      "name": "Indium",
+      "symbol": "In",
+      "atomic_number": 49,
+      "category": "Post-transition metal",
+      "discovered_by": "Ferdinand Reich, Hieronymous Theodor Richter",
+      "discovery_date": "1863",
+      "properties": "Post-transition metal. Used in electronics and semiconductors."
+    },
+    {
+      "name": "Tin",
+      "symbol": "Sn",
+      "atomic_number": 50,
+      "category": "Post-transition metal",
+      "discovered_by": "Ancient civilizations",
+      "discovery_date": "Prehistoric",
+      "properties": "Post-transition metal. Used in alloys and coatings."
+    },
+    {
+      "name": "Antimony",
+      "symbol": "Sb",
+      "atomic_number": 51,
+      "category": "Metalloid",
+      "discovered_by": "Ancient civilizations",
+      "discovery_date": "Prehistoric",
+      "properties": "Metalloid. Used in flame retardants and alloys."
+    },
+    {
+      "name": "Tellurium",
+      "symbol": "Te",
+      "atomic_number": 52,
+      "category": "Metalloid",
+      "discovered_by": "Franz-Joseph Müller von Reichenstein",
+      "discovery_date": "1782",
+      "properties": "Metalloid. Used in electronics and solar cells."
+    },
+    {
+      "name": "Iodine",
+      "symbol": "I",
+      "atomic_number": 53,
+      "category": "Halogen",
+      "discovered_by": "Bernard Courtois",
+      "discovery_date": "1811",
+      "properties": "Halogen. Purple-black solid, used in medicine and sanitation."
+    },
+    {
+      "name": "Xenon",
+      "symbol": "Xe",
+      "atomic_number": 54,
+      "category": "Noble gas",
+      "discovered_by": "Sir William Ramsay, Morris Travers",
+      "discovery_date": "1898",
+      "properties": "Noble gas. Used in lighting and lasers."
+    },
+    {
+      "name": "Cesium",
+      "symbol": "Cs",
+      "atomic_number": 55,
+      "category": "Alkali metal",
+      "discovered_by": "Robert Bunsen, Gustav Kirchhoff",
+      "discovery_date": "1860",
+      "properties": "Alkali metal. Reactive, used in atomic clocks."
+    },
+    {
+      "name": "Barium",
+      "symbol": "Ba",
+      "atomic_number": 56,
+      "category": "Alkaline earth metal",
+      "discovered_by": "Carl Wilhelm Scheele",
+      "discovery_date": "1772",
+      "properties": "Alkaline earth metal. Used in X-ray imaging and fireworks."
+    },
+    {
+      "name": "Lanthanum",
+      "symbol": "La",
+      "atomic_number": 57,
+      "category": "Lanthanide",
+      "discovered_by": "Carl Gustaf Mosander",
+      "discovery_date": "1839",
+      "properties": "Lanthanide. Used in batteries and camera lenses."
+    },
+    {
+      "name": "Cerium",
+      "symbol": "Ce",
+      "atomic_number": 58,
+      "category": "Lanthanide",
+      "discovered_by": "Martin Heinrich Klaproth, Jöns Jacob Berzelius",
+      "discovery_date": "1803",
+      "properties": "Lanthanide. Used in catalysts, glass, and fireworks."
+    },
+    {
+      "name": "Praseodymium",
+      "symbol": "Pr",
+      "atomic_number": 59,
+      "category": "Lanthanide",
+      "discovered_by": "Carl Auer von Welsbach",
+      "discovery_date": "1885",
+      "properties": "Lanthanide. Used in magnets and lasers."
+    },
+    {
+      "name": "Neodymium",
+      "symbol": "Nd",
+      "atomic_number": 60,
+      "category": "Lanthanide",
+      "discovered_by": "Carl Auer von Welsbach",
+      "discovery_date": "1885",
+      "properties": "Lanthanide. Used in magnets, lasers, and glass."
+    },
+    {
+      "name": "Promethium",
+      "symbol": "Pm",
+      "atomic_number": 61,
+      "category": "Lanthanide",
+      "discovered_by": "Chien Shiung Wu, Emilio Segrè",
+      "discovery_date": "1945",
+      "properties": "Lanthanide. Radioactive, used in atomic batteries."
+    },
+    {
+      "name": "Samarium",
+      "symbol": "Sm",
+      "atomic_number": 62,
+      "category": "Lanthanide",
+      "discovered_by": "Lecoq de Boisbaudran",
+      "discovery_date": "1879",
+      "properties": "Lanthanide. Used in magnets and catalysts."
+    },
+    {
+      "name": "Europium",
+      "symbol": "Eu",
+      "atomic_number": 63,
+      "category": "Lanthanide",
+      "discovered_by": "Eugène-Anatole Demarçay",
+      "discovery_date": "1901",
+      "properties": "Lanthanide. Used in phosphors and nuclear reactors."
+    },
+    {
+      "name": "Gadolinium",
+      "symbol": "Gd",
+      "atomic_number": 64,
+      "category": "Lanthanide",
+      "discovered_by": "Jean Charles Galissard de Marignac",
+      "discovery_date": "1880",
+      "properties": "Lanthanide. Used in MRI contrast agents and neutron capture."
+    },
+    {
+      "name": "Terbium",
+      "symbol": "Tb",
+      "atomic_number": 65,
+      "category": "Lanthanide",
+      "discovered_by": "Carl Gustaf Mosander",
+      "discovery_date": "1843",
+      "properties": "Lanthanide. Used in phosphors and electronic devices."
+    },
+    {
+      "name": "Dysprosium",
+      "symbol": "Dy",
+      "atomic_number": 66,
+      "category": "Lanthanide",
+      "discovered_by": "Lecoq de Boisbaudran",
+      "discovery_date": "1886",
+      "properties": "Lanthanide. Used in magnets and lasers."
+    },
+    {
+      "name": "Holmium",
+      "symbol": "Ho",
+      "atomic_number": 67,
+      "category": "Lanthanide",
+      "discovered_by": "Marc Delafontaine, Jacques-Louis Soret",
+      "discovery_date": "1878",
+      "properties": "Lanthanide. Used in lasers and nuclear reactors."
+    },
+    {
+      "name": "Erbium",
+      "symbol": "Er",
+      "atomic_number": 68,
+      "category": "Lanthanide",
+      "discovered_by": "Carl Gustaf Mosander",
+      "discovery_date": "1842",
+      "properties": "Lanthanide. Used in lasers, fiber optics, and nuclear applications."
+    },
+    {
+      "name": "Thulium",
+      "symbol": "Tm",
+      "atomic_number": 69,
+      "category": "Lanthanide",
+      "discovered_by": "Per Teodor Cleve",
+      "discovery_date": "1879",
+      "properties": "Lanthanide. Used in medical imaging and lasers."
+    },
+    {
+      "name": "Ytterbium",
+      "symbol": "Yb",
+      "atomic_number": 70,
+      "category": "Lanthanide",
+      "discovered_by": "Jean Charles Galissard de Marignac",
+      "discovery_date": "1878",
+      "properties": "Lanthanide. Used in lasers and medical devices."
+    },
+    {
+      "name": "Lutetium",
+      "symbol": "Lu",
+      "atomic_number": 71,
+      "category": "Lanthanide",
+      "discovered_by": "Georges Urbain, Carl Auer von Welsbach",
+      "discovery_date": "1907",
+      "properties": "Lanthanide. Used in medical imaging and catalysts."
+    },
+    {
+      "name": "Hafnium",
+      "symbol": "Hf",
+      "atomic_number": 72,
+      "category": "Transition metal",
+      "discovered_by": "Dirk Coster, George de Hevesy",
+      "discovery_date": "1923",
+      "properties": "Transition metal. Used in nuclear reactors and high-temperature applications."
+    },
+    {
+      "name": "Tantalum",
+      "symbol": "Ta",
+      "atomic_number": 73,
+      "category": "Transition metal",
+      "discovered_by": "Anders Gustaf Ekeberg",
+      "discovery_date": "1802",
+      "properties": "Transition metal. Used in capacitors and high-temperature applications."
+    },
+    {
+      "name": "Tungsten",
+      "symbol": "W",
+      "atomic_number": 74,
+      "category": "Transition metal",
+      "discovered_by": "Carl Wilhelm Scheele",
+      "discovery_date": "1781",
+      "properties": "Transition metal. Very high melting point, used in filaments and alloys."
+    },
+    {
+      "name": "Rhenium",
+      "symbol": "Re",
+      "atomic_number": 75,
+      "category": "Transition metal",
+      "discovered_by": "Masataka Ogawa",
+      "discovery_date": "1925",
+      "properties": "Transition metal. Used in high-temperature alloys."
+    },
+    {
+      "name": "Osmium",
+      "symbol": "Os",
+      "atomic_number": 76,
+      "category": "Transition metal",
+      "discovered_by": "Smithson Tennant",
+      "discovery_date": "1803",
+      "properties": "Transition metal. Densest naturally occurring element."
+    },
+    {
+      "name": "Iridium",
+      "symbol": "Ir",
+      "atomic_number": 77,
+      "category": "Transition metal",
+      "discovered_by": "Smithson Tennant",
+      "discovery_date": "1803",
+      "properties": "Transition metal. Corrosion-resistant, used in high-temperature applications."
+    },
+    {
+      "name": "Platinum",
+      "symbol": "Pt",
+      "atomic_number": 78,
+      "category": "Transition metal",
+      "discovered_by": "Antonio de Ulloa",
+      "discovery_date": "Prehistoric",
+      "properties": "Transition metal. Valuable, used in jewelry and catalysts."
+    },
+    {
+      "name": "Gold",
+      "symbol": "Au",
+      "atomic_number": 79,
+      "category": "Transition metal",
+      "discovered_by": "Ancient civilizations",
+      "discovery_date": "Prehistoric",
+      "properties": "Transition metal. Valuable, used in jewelry and electronics."
+    },
+    {
+      "name": "Mercury",
+      "symbol": "Hg",
+      "atomic_number": 80,
+      "category": "Transition metal",
+      "discovered_by": "Ancient civilizations",
+      "discovery_date": "Prehistoric",
+      "properties": "Transition metal. Liquid at room temperature, used in thermometers and lighting."
+    },
+    {
+      "name": "Thallium",
+      "symbol": "Tl",
+      "atomic_number": 81,
+      "category": "Post-transition metal",
+      "discovered_by": "William Crookes",
+      "discovery_date": "1861",
+      "properties": "Post-transition metal. Used in electronics and medical imaging."
+    },
+    {
+      "name": "Lead",
+      "symbol": "Pb",
+      "atomic_number": 82,
+      "category": "Post-transition metal",
+      "discovered_by": "Ancient civilizations",
+      "discovery_date": "Prehistoric",
+      "properties": "Post-transition metal. Dense and corrosion-resistant, used in batteries and shielding."
+    },
+    {
+      "name": "Bismuth",
+      "symbol": "Bi",
+      "atomic_number": 83,
+      "category": "Post-transition metal",
+      "discovered_by": "Claude François Geoffroy",
+      "discovery_date": "1753",
+      "properties": "Post-transition metal. Brittle, used in cosmetics and medications."
+    },
+    {
+      "name": "Polonium",
+      "symbol": "Po",
+      "atomic_number": 84,
+      "category": "Post-transition metal",
+      "discovered_by": "Marie Curie, Pierre Curie",
+      "discovery_date": "1898",
+      "properties": "Metal. Radioactive, highly toxic."
+    },
+    {
+      "name": "Astatine",
+      "symbol": "At",
+      "atomic_number": 85,
+      "category": "Halogen",
+      "discovered_by": "Dale R. Corson, Kenneth Ross MacKenzie, Emilio Segrè",
+      "discovery_date": "1940",
+      "properties": "Halogen. Radioactive and rare."
+    },
+    {
+      "name": "Radon",
+      "symbol": "Rn",
+      "atomic_number": 86,
+      "category": "Noble gas",
+      "discovered_by": "Friedrich Ernst Dorn",
+      "discovery_date": "1900",
+      "properties": "Noble gas. Radioactive and colorless."
+    },
+    {
+      "name": "Francium",
+      "symbol": "Fr",
+      "atomic_number": 87,
+      "category": "Alkali metal",
+      "discovered_by": "Marguerite Perey",
+      "discovery_date": "1939",
+      "properties": "Alkali metal. Highly radioactive and rare."
+    },
+    {
+      "name": "Radium",
+      "symbol": "Ra",
+      "atomic_number": 88,
+      "category": "Alkaline earth metal",
+      "discovered_by": "Marie Curie, Pierre Curie",
+      "discovery_date": "1898",
+      "properties": "Alkaline earth metal. Radioactive and luminescent."
+    },
+    {
+      "name": "Actinium",
+      "symbol": "Ac",
+      "atomic_number": 89,
+      "category": "Actinide",
+      "discovered_by": "Friedrich Oskar Giesel",
+      "discovery_date": "1899",
+      "properties": "Actinide. Radioactive and silvery-white."
+    },
+    {
+      "name": "Thorium",
+      "symbol": "Th",
+      "atomic_number": 90,
+      "category": "Actinide",
+      "discovered_by": "Jöns Jacob Berzelius",
+      "discovery_date": "1829",
+      "properties": "Actinide. Radioactive, used in nuclear reactors."
+    },
+    {
+      "name": "Protactinium",
+      "symbol": "Pa",
+      "atomic_number": 91,
+      "category": "Actinide",
+      "discovered_by": "William Crookes",
+      "discovery_date": "1913",
+      "properties": "Actinide. Radioactive, used in nuclear reactors."
+    },
+    {
+      "name": "Uranium",
+      "symbol": "U",
+      "atomic_number": 92,
+      "category": "Actinide",
+      "discovered_by": "Martin Heinrich Klaproth",
+      "discovery_date": "1789",
+      "properties": "Actinide. Radioactive, used in nuclear reactors and weapons."
+    },
+    {
+      "name": "Neptunium",
+      "symbol": "Np",
+      "atomic_number": 93,
+      "category": "Actinide",
+      "discovered_by": "Edwin McMillan, Philip H. Abelson",
+      "discovery_date": "1940",
+      "properties": "Actinide. Radioactive, used in nuclear reactors."
+    },
+    {
+      "name": "Plutonium",
+      "symbol": "Pu",
+      "atomic_number": 94,
+      "category": "Actinide",
+      "discovered_by": "Glenn T. Seaborg, Arthur C. Wahl",
+      "discovery_date": "1940",
+      "properties": "Actinide. Radioactive, used in nuclear reactors and weapons."
+    },
+    {
+      "name": "Americium",
+      "symbol": "Am",
+      "atomic_number": 95,
+      "category": "Actinide",
+      "discovered_by": "Glenn T. Seaborg, Ralph A. James",
+      "discovery_date": "1944",
+      "properties": "Actinide. Radioactive, used in smoke detectors and medical applications."
+    },
+    {
+      "name": "Curium",
+      "symbol": "Cm",
+      "atomic_number": 96,
+      "category": "Actinide",
+      "discovered_by": "Glenn T. Seaborg, Albert Ghiorso",
+      "discovery_date": "1944",
+      "properties": "Actinide. Radioactive, used in specialized research."
+    },
+    {
+      "name": "Berkelium",
+      "symbol": "Bk",
+      "atomic_number": 97,
+      "category": "Actinide",
+      "discovered_by": "Lawrence Berkeley National Laboratory",
+      "discovery_date": "1949",
+      "properties": "Actinide. Radioactive, used in specialized research."
+    },
+    {
+      "name": "Californium",
+      "symbol": "Cf",
+      "atomic_number": 98,
+      "category": "Actinide",
+      "discovered_by": "Lawrence Berkeley National Laboratory",
+      "discovery_date": "1950",
+      "properties": "Actinide. Radioactive, used in neutron sources and specialized research."
+    },
+    {
+      "name": "Einsteinium",
+      "symbol": "Es",
+      "atomic_number": 99,
+      "category": "Actinide",
+      "discovered_by": "Lawrence Berkeley National Laboratory",
+      "discovery_date": "1952",
+      "properties": "Actinide. Radioactive, used in specialized research."
+    },
+    {
+      "name": "Fermium",
+      "symbol": "Fm",
+      "atomic_number": 100,
+      "category": "Actinide",
+      "discovered_by": "Lawrence Berkeley National Laboratory",
+      "discovery_date": "1952",
+      "properties": "Actinide. Radioactive, used in specialized research."
+    },
+    {
+      "name": "Mendelevium",
+      "symbol": "Md",
+      "atomic_number": 101,
+      "category": "Actinide",
+      "discovered_by": "Lawrence Berkeley National Laboratory",
+      "discovery_date": "1955",
+      "properties": "Actinide. Radioactive, used in specialized research."
+    },
+    {
+      "name": "Nobelium",
+      "symbol": "No",
+      "atomic_number": 102,
+      "category": "Actinide",
+      "discovered_by": "Joint Institute for Nuclear Research",
+      "discovery_date": "1957",
+      "properties": "Actinide. Radioactive, used in specialized research."
+    },
+    {
+      "name": "Lawrencium",
+      "symbol": "Lr",
+      "atomic_number": 103,
+      "category": "Actinide",
+      "discovered_by": "Lawrence Berkeley National Laboratory",
+      "discovery_date": "1961",
+      "properties": "Actinide. Radioactive, used in specialized research."
+    },
+    {
+      "name": "Rutherfordium",
+      "symbol": "Rf",
+      "atomic_number": 104,
+      "category": "Transition metal",
+      "discovered_by": "Joint Institute for Nuclear Research",
+      "discovery_date": "1964",
+      "properties": "Transition metal. Radioactive, used in specialized research."
+    },
+    {
+      "name": "Dubnium",
+      "symbol": "Db",
+      "atomic_number": 105,
+      "category": "Transition metal",
+      "discovered_by": "Joint Institute for Nuclear Research",
+      "discovery_date": "1967",
+      "properties": "Transition metal. Radioactive, used in specialized research."
+    },
+    {
+      "name": "Seaborgium",
+      "symbol": "Sg",
+      "atomic_number": 106,
+      "category": "Transition metal",
+      "discovered_by": "Lawrence Berkeley National Laboratory",
+      "discovery_date": "1974",
+      "properties": "Transition metal. Radioactive, used in specialized research."
+    },
+    {
+      "name": "Bohrium",
+      "symbol": "Bh",
+      "atomic_number": 107,
+      "category": "Transition metal",
+      "discovered_by": "Gesellschaft für Schwerionenforschung",
+      "discovery_date": "1981",
+      "properties": "Transition metal. Radioactive, used in specialized research."
+    },
+    {
+      "name": "Hassium",
+      "symbol": "Hs",
+      "atomic_number": 108,
+      "category": "Transition metal",
+      "discovered_by": "Gesellschaft für Schwerionenforschung",
+      "discovery_date": "1984",
+      "properties": "Transition metal. Radioactive, used in specialized research."
+    },
+    {
+      "name": "Meitnerium",
+      "symbol": "Mt",
+      "atomic_number": 109,
+      "category": "Unknown",
+      "discovered_by": "Gesellschaft für Schwerionenforschung",
+      "discovery_date": "1982",
+      "properties": "Unknown. Radioactive, used in specialized research."
+    },
+    {
+      "name": "Darmstadtium",
+      "symbol": "Ds",
+      "atomic_number": 110,
+      "category": "Unknown",
+      "discovered_by": "Gesellschaft für Schwerionenforschung",
+      "discovery_date": "1994",
+      "properties": "Unknown. Radioactive, used in specialized research."
+    },
+    {
+      "name": "Roentgenium",
+      "symbol": "Rg",
+      "atomic_number": 111,
+      "category": "Unknown",
+      "discovered_by": "Gesellschaft für Schwerionenforschung",
+      "discovery_date": "1994",
+      "properties": "Unknown. Radioactive, used in specialized research."
+    },
+    {
+      "name": "Copernicium",
+      "symbol": "Cn",
+      "atomic_number": 112,
+      "category": "Unknown",
+      "discovered_by": "Gesellschaft für Schwerionenforschung",
+      "discovery_date": "1996",
+      "properties": "Unknown. Radioactive, used in specialized research."
+    },
+    {
+      "name": "Nihonium",
+      "symbol": "Nh",
+      "atomic_number": 113,
+      "category": "Unknown",
+      "discovered_by": "Riken",
+      "discovery_date": "2003",
+      "properties": "Unknown. Radioactive, used in specialized research."
+    },
+    {
+      "name": "Flerovium",
+      "symbol": "Fl",
+      "atomic_number": 114,
+      "category": "Unknown",
+      "discovered_by": "Joint Institute for Nuclear Research",
+      "discovery_date": "1998",
+      "properties": "Unknown. Radioactive, used in specialized research."
+    },
+    {
+      "name": "Moscovium",
+      "symbol": "Mc",
+      "atomic_number": 115,
+      "category": "Unknown",
+      "discovered_by": "Joint Institute for Nuclear Research",
+      "discovery_date": "2003",
+      "properties": "Unknown. Radioactive, used in specialized research."
+    },
+    {
+      "name": "Livermorium",
+      "symbol": "Lv",
+      "atomic_number": 116,
+      "category": "Unknown",
+      "discovered_by": "Joint Institute for Nuclear Research, Lawrence Livermore National Laboratory",
+      "discovery_date": "2000",
+      "properties": "Unknown. Radioactive, used in specialized research."
+    },
+    {
+      "name": "Tennessine",
+      "symbol": "Ts",
+      "atomic_number": 117,
+      "category": "Unknown",
+      "discovered_by": "Joint Institute for Nuclear Research, Oak Ridge National Laboratory",
+      "discovery_date": "2010",
+      "properties": "Unknown. Radioactive, used in specialized research."
+    },
+    {
+      "name": "Oganesson",
+      "symbol": "Og",
+      "atomic_number": 118,
+      "category": "Unknown",
+      "discovered_by": "Joint Institute for Nuclear Research, Lawrence Livermore National Laboratory",
+      "discovery_date": "2002",
+      "properties": "Unknown. Radioactive, used in specialized research."
+    }
+  ]
+}
