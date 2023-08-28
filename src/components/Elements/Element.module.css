@@ -41,7 +41,7 @@
   --fontColor: hsl(70, 50%, 70%);
 }
 [data-theme="Unknown"] {
-  --backgroundColor: hsl(0, 0%, 50%);
+  --backgroundColor: #333;
   --fontColor: hsl(0, 0%, 80%);
 }
 .container {
@@ -53,12 +53,16 @@
   cursor: pointer;
   background-color: var(--backgroundColor);
   color: var(--fontColor);
+  transition: transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275),
+    box-shadow 0.3s ease-in-out, color 0.3s ease-in-out;
 }
 .container:hover {
   background-color: white;
   box-shadow: 0 0 20px rgba(255, 255, 255, 0.7);
   color: var(--backgroundColor);
   z-index: 999;
+  transform: scale(1.05);
+  transition: transform 0.5s;
 }
 .elementSymbol {
   display: flex;
